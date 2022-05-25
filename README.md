@@ -6,7 +6,7 @@
 
 Hi, I'm @bmcdonaldjr
 I'm interested in the following:
-All thimgs DDI (DNS, DHCP, IPAM)
+All things DDI (DNS, DHCP, IPAM)
 All things NTP (NTP, Chrony) (Member Network Time Foundation)
 All things BSD (OpenBSD, NetBSD, FreeBSD) (Member FreeBSD Foundation)
 All things Linux (Experiebced with several distro's)
